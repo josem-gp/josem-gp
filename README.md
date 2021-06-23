@@ -4,3 +4,5 @@ I'm a **Full Stack Web Developer** with a background in the teaching industry. I
 I love learning new skills at all times and thinking about new projects I could create. I enjoy the simple act of coding and **bringing my ideas to life**! 
 
 I also have interest in Data Science and Applied Machine Learning to solve Real-World problems, so... please don't get too confused if you see some ML / AI repositories mixed in! 😝
+
+My personal portfolio: https://www.josegp.me/
